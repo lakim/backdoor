@@ -30,7 +30,7 @@ Rinse, repeat for the next tests.
 The name of the project has a real meaning. It really creates a backdoor to your backend!
 It is simple and powerful, but use it with caution.
 
-Simple rule to stay safe: ** Never install it in production **.
+Simple rule to stay safe: **Never install it in production**.
 
 See [Installation](#installation).
 
@@ -41,7 +41,7 @@ See [Installation](#installation).
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Add these lines to your application's Gemfile:
 
     group :test do
       gem 'backdoor'
@@ -83,7 +83,7 @@ Existing clients:
 
 ## Contributing
 
-### Contributing to backdoor
+### Contribute to backdoor
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
@@ -94,4 +94,4 @@ Existing clients:
 ### Create a client
 
 1. Create an awesome client for your platform (Android, Javascript, you name it)
-2. Send me a request so I can link to your client here!
+2. Send me a request so I can link to your project here!
