@@ -1,12 +1,12 @@
 # Backdoor
 
-Test my app from end to end: mobile client to backend API.
+Test your app from end to end, mobile client to backend API.
 
-`backdoor` is a simple server that exposes my backend factories (Factory Girl, Machinist) to my API client test suite.
+`backdoor` is a simple server that exposes your backend factories (Factory Girl, Machinist) to your API client test suite.
 
 ## How it works
 
-### Example workflow - Test user signin from my mobile API client
+### Example workflow - Test user signin from your mobile API client
 
 1. connect to `backdoor`
 2. create a User on the backend using the user factory
